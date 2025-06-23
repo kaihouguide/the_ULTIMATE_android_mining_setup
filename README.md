@@ -35,3 +35,4 @@ in the terminal of LINUX in the VNC copy and paste the following in order to run
 every time to run anki just rerun 
 <pre>QTWEBENGINE_CHROMIUM_FLAGS="--disable-seccomp-filter-sandbox" pyenv/bin/anki<pre>
 i reccomened you just make this an excutable to just be able to double click it
+![Screenshot](./image.png)
