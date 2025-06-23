@@ -1,9 +1,24 @@
 
+
 # Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
 
 > **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
+
+## 📚 Table of Contents
+
+*   [🎯 Goal](#-goal)
+*   [⚠️ Storage Requirement](#️-storage-requirement)
+*   [🛠️ Prerequisites](#️-prerequisites)
+*   [🚀 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
+*   [🎮 VN Mining on Android](#-vn-mining-on-android)
+*   [📖 Reading and Mining LNs on Android](#-reading-and-mining-lns-on-android)
+*   [🎨 Reading and Mining Manga on Android](#-reading-and-mining-manga-on-android)
+*   [🎬 Reading and Mining Anime on Android](#-reading-and-mining-anime-on-android)
+*   [🪄 Hacks That Make Everything Easier](#-hacks-that-make-everything-easier)
+
+---
 
 ## 🎯 Goal
 
@@ -247,17 +262,30 @@ Similar to manga, you have a couple of great options for mining anime.
 *   **Lazy Method**: There is also a dedicated guide for another anime mining setup.
     *   **[Lazy Guide: Setup Anime on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)**
 
-# Hacks that make everything so easy it feels illegal 
-get this app [keymapper](https://github.com/keymapperorg/KeyMapper)
-[how I use this(my personal settings export)](https://files.catbox.moe/33kyf4.zip)
-# ANKI HACKS
-Pressing volume up or down Reveals card 
-Press vol Up to FAIL card 
-Press vol down to PASS card
-DOUBLE press vol Up to UNDO card
-DOUBLE press vol down to REVEAL GLOSSARY SECTION IN LAPIS
-VNs hacks 
-map ⭕ button to volume up (usually progress to next text) in psp/psvita games 
-keep your tekisuto float in one place in the screen and map DOUBLE vol down to double tap on that place on the screen 
-for example, I put my float on the bottom left and double tab volume down double taps on the float , pressing volume up presses ⭕ (I keep the controls at 15% to not hurt OCR accuracy)
-https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup/blob/main/Screenshot_2025-06-23-14-03-57-551_org.ppsspp.ppssppgold.jpg
+---
+
+## 🪄 Hacks That Make Everything Easier
+
+To automate your workflow, the **[Key Mapper](https://github.com/keymapperorg/KeyMapper)** app is essential. You can map your volume buttons to perform complex actions, saving you a lot of time.
+
+*   **[Download my personal Key Mapper settings](https://files.catbox.moe/33kyf4.zip)** to import a pre-configured setup.
+
+### 🤖 Anki Hacks
+
+*   Press **Volume Up** or **Volume Down** once to reveal the current card.
+*   Press **Volume Up** once to mark the card as **FAIL**.
+*   Press **Volume Down** once to mark the card as **PASS**.
+*   **Double-press Volume Up** to **UNDO** the last action.
+*   **Double-press Volume Down** to reveal the glossary section in a Lapis note.
+
+### 🎮 VN Hacks
+
+This setup makes mining from emulated VNs (like PPSSPP/Vita3K) incredibly smooth.
+
+*   In your emulator, map the **`⭕`** button (or whichever button advances text) to **Volume Up**.
+*   Keep your Tekisuto floating icon in a fixed position on the screen.
+*   In Key Mapper, map a **Double-press of Volume Down** to a **Double Tap** action at the exact coordinates of your Tekisuto icon.
+
+With this, you can play the game and create cards using only your volume buttons. I recommend setting the on-screen controls to ~15% opacity to avoid interfering with OCR accuracy.
+
+![Example of PPSSPP controls with Tekisuto float](https://raw.githubusercontent.com/kaihouguide/the_ULTIMATE_android_mining_setup/main/Screenshot_2025-06-23-14-03-57-551_org.ppsspp.ppssppgold.jpg)
