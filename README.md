@@ -172,3 +172,8 @@ keep in mind this is just OCR it might have mistakes but up till now it has been
 once downloaded and installed 
 ![Screenshot](./Screenshot_2025-06-23-12-50-00-604_com.abaga129.tekisuto.jpg
 )
+open accessibility settings and give it all permissions needed 
+then OCR settings and choose OCR language japanese 
+then manage dictionaries and load in your yomitan dictionary zips
+last step 
+configure ankidroid to your deck and mining note , I use lapis and this is how I set it up 
