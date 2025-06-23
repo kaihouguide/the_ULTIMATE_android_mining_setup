@@ -283,7 +283,7 @@ To automate your workflow, the **[Key Mapper](https://github.com/keymapperorg/Ke
 
 This setup makes mining from emulated VNs (like PPSSPP/Vita3K) incredibly smooth.
 
-*   In your emulator, map the **`⭕`** button (or whichever button advances text) to **Volume Up**.
+*    map the **`⭕`** button (or whichever button advances text) to **Volume Up**.
 *   Keep your Tekisuto floating icon in a fixed position on the screen.
 *   In Key Mapper, map a **Double-press of Volume Down** to a **Double Tap** action at the exact coordinates of your Tekisuto icon.
 
