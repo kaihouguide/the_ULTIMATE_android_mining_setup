@@ -177,3 +177,4 @@ then OCR settings and choose OCR language japanese
 then manage dictionaries and load in your yomitan dictionary zips
 last step 
 configure ankidroid to your deck and mining note , I use lapis and this is how I set it up 
+![Screenshot](./Screenshot_2025-06-23-13-00-27-683_com.abaga129.tekisuto.jpg)
