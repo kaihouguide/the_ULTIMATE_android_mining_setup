@@ -211,3 +211,4 @@ To do lookups, double-tap on the floating circle, then tap the checkmark (**✓*
 or using [jidoujisho](https://github.com/arianneorpilla/jidoujisho)
 since lazy method already is already well explained I'll only explain jidoujisho 
 # General installation of jidoujisho for Manga and anime 
+![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
