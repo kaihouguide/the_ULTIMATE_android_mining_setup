@@ -205,3 +205,9 @@ Once downloaded and installed:
 To do lookups, double-tap on the floating circle, then tap the checkmark (**✓**). Export to Anki using the up arrow (**⬆️**).
 # Reading and mining LNs on Android 
 [There's already an excellent guide on that by xeilu](https://lazyguidejp.github.io/jp-lazy-guide/setupLnOnAndroid/)
+# reading and mining Manga on Android 
+2 very easy methods exist 
+[lazy method](https://lazyguidejp.github.io/jp-lazy-guide/setupMangaOnAndroid/)
+or using [jidoujisho](https://github.com/arianneorpilla/jidoujisho)
+since lazy method already is already well explained I'll only explain jidoujisho 
+# General installation of jidoujisho for Manga and anime 
