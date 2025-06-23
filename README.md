@@ -164,3 +164,6 @@ To avoid typing the long command every time, you can create a simple executable 
     ```
 Now you can simply open a terminal and run `./run-anki.sh` to start Anki, or even create a desktop launcher that executes this script.
 ![Screenshot](./image.png)
+# VN mining on Android 
+there's many ways to run VNs on Android most notably PPSSPP Vita3k kirikioid2 exgear, this guide isn't for running the VNs but mining them 
+## Prerequisites **[tekisuto](https://github.com/abaga129/tekisuto)**
