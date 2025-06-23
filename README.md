@@ -213,3 +213,6 @@ since lazy method already is already well explained I'll only explain jidoujisho
 # General installation of jidoujisho for Manga and anime 
 ![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
 once in jidoujisho press on threedots top right then manage dictionaries and import your yomitan dictionaries, then go into export profiles choose your note type and press create them fill out the fields accordingly, after finishing go to Dictionary section bottom left 
+![Screenshot](./Screenshot_2025-06-23-13-39-33-891_app.arianneorpilla.yuuna.jpg) 
+press on card creator ( card with+) and bottom left choose your ankideck
+jidoujisho allows you to load in Anime with jp subs for look ups or Mokuro manga HTMLs
