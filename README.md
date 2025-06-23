@@ -34,7 +34,7 @@ For daily reviews, it is still **highly recommended to use AnkiDroid** after syn
 > Installing everything in this guide will require a significant amount of storage. It is highly recommended to have a **128GB** or **256GB** phone at a minimum before proceeding.
 
 ---
-### quick note this is a Linux installation, basically an entire PC on your phone if you really want you can do most simple tasks on this if you know your way around Linux and can even install a browser with yomitan and use ankiconnect and mine with it (untested) but I'd reccs do as much Android native tasks as possible 
+### quick note this is a Linux installation, basically an entire PC on your phone if you really want you can do most simple tasks on this if you know your way around Linux and can even install a browser with yomitan and use ankiconnect and mine with it (untested) but I'd recc do as much Android native tasks as possible 
 
 ## 🛠️ Prerequisites
 
