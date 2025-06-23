@@ -1,5 +1,4 @@
 
-
 # Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
@@ -7,6 +6,8 @@
 > **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
 
 ## 🎯 Goal
+
+The primary goal of this setup is to install and manage **Anki add-ons**, which are not supported by the standard AnkiDroid app.
 
 For daily reviews, it is still **highly recommended to use AnkiDroid** after syncing your collection from the desktop client. This setup is for maintenance, card creation with complex add-ons, and management.
 
@@ -203,17 +204,45 @@ Once downloaded and installed:
     ![Screenshot](./Screenshot_2025-06-23-13-00-27-683_com.abaga129.tekisuto.jpg)
 
 To do lookups, double-tap on the floating circle, then tap the checkmark (**✓**). Export to Anki using the up arrow (**⬆️**).
-# Reading and mining LNs on Android 
-[There's already an excellent guide on that by xeilu](https://lazyguidejp.github.io/jp-lazy-guide/setupLnOnAndroid/)
-# reading and mining Manga on Android 
-2 very easy methods exist 
-[lazy method](https://lazyguidejp.github.io/jp-lazy-guide/setupMangaOnAndroid/)
-or using [jidoujisho](https://github.com/arianneorpilla/jidoujisho)
-since lazy method already is already well explained I'll only explain jidoujisho 
-# General installation of jidoujisho for Manga and anime 
-![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
-once in jidoujisho press on threedots top right then manage dictionaries and import your yomitan dictionaries, then go into export profiles choose your note type and press create them fill out the fields accordingly, after finishing go to Dictionary section bottom left 
-![Screenshot](./Screenshot_2025-06-23-13-39-33-891_app.arianneorpilla.yuuna.jpg) 
-press on card creator ( card with+) and bottom left choose your ankideck
-jidoujisho allows you to load in Anime with jp subs for look ups or Mokuro manga HTMLs
-[there's also the lazy method for anime](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)
+
+---
+
+## 📖 Reading and Mining LNs on Android
+
+There's already an excellent guide for this by xeilu, which covers the process in detail.
+
+*   **[Lazy Guide: Setup LNs on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupLnOnAndroid/)**
+
+---
+
+## 🎨 Reading and Mining Manga on Android
+
+Two very easy methods exist for mining manga on your device.
+
+*   **Lazy Method**: This method is already well-explained in the following guide.
+    *   **[Lazy Guide: Setup Manga on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupMangaOnAndroid/)**
+*   **Jidoujisho**: A powerful OCR and lookup tool. The setup is detailed below.
+
+### Jidoujisho Installation for Manga and Anime
+
+1.  Download and install **[Jidoujisho](https://github.com/arianneorpilla/jidoujisho)**.
+2.  In Jidoujisho, tap the three dots in the top right, select **Manage Dictionaries**, and import your Yomitan dictionaries.
+3.  Go to **Export Profiles**, choose your Anki note type, and press **Create** to fill out the fields accordingly.
+
+    ![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
+4.  Once finished, navigate to the **Dictionary** section (bottom left).
+5.  Tap the card creator icon (a card with a `+`) and select your target Anki deck from the bottom left.
+
+    ![Screenshot](./Screenshot_2025-06-23-13-39-33-891_app.arianneorpilla.yuuna.jpg)
+
+Jidoujisho allows you to load in Anime with Japanese subtitles or Mokuro manga HTMLs for easy lookups and mining.
+
+---
+
+## 🎬 Reading and Mining Anime on Android
+
+Similar to manga, you have a couple of great options for mining anime.
+
+*   **Jidoujisho**: As described in the section above, Jidoujisho can load anime with subtitle files.
+*   **Lazy Method**: There is also a dedicated guide for another anime mining setup.
+    *   **[Lazy Guide: Setup Anime on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)**
