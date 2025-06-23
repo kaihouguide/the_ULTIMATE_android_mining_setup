@@ -212,3 +212,4 @@ or using [jidoujisho](https://github.com/arianneorpilla/jidoujisho)
 since lazy method already is already well explained I'll only explain jidoujisho 
 # General installation of jidoujisho for Manga and anime 
 ![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
+once in jidoujisho press on threedots top right then manage dictionaries and import your yomitan dictionaries, then go into export profiles choose your note type and press create them fill out the fields accordingly, after finishing go to Dictionary section bottom left 
