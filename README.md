@@ -206,7 +206,7 @@ There are many ways to run VNs on Android, most notably PPSSPP, Vita3k, Kirikiro
 
 ### Prerequisites
 
-*   **[Tekisuto](https://github.com/facedev/Tekisuto/releases)**
+*   **[Tekisuto](https://github.com/abaga129/tekisuto)**
 
 ### Setup and Usage
 
