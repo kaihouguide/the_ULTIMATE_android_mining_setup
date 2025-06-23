@@ -246,3 +246,16 @@ Similar to manga, you have a couple of great options for mining anime.
 *   **Jidoujisho**: As described in the section above, Jidoujisho can load anime with subtitle files.
 *   **Lazy Method**: There is also a dedicated guide for another anime mining setup.
     *   **[Lazy Guide: Setup Anime on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)**
+
+# Hacks that make everything so easy it feels illegal 
+get this app [keymapper](https://github.com/keymapperorg/KeyMapper)
+[how I use this(my personal settings export)](https://files.catbox.moe/33kyf4.zip)
+# ANKI HACKS
+Pressing volume up or down Reveals card 
+Press vol Up to FAIL card 
+Press vol down to PASS card
+DOUBLE press vol Up to UNDO card
+DOUBLE press vol down to REVEAL GLOSSARY SECTION IN LAPIS
+VNs hacks 
+map ⭕ button to volume up (usually progress to next text) in psp/psvita games 
+keep your tekisuto float in one place in the screen and map DOUBLE vol down to double tap on that place on the screen 
