@@ -259,3 +259,5 @@ DOUBLE press vol down to REVEAL GLOSSARY SECTION IN LAPIS
 VNs hacks 
 map ⭕ button to volume up (usually progress to next text) in psp/psvita games 
 keep your tekisuto float in one place in the screen and map DOUBLE vol down to double tap on that place on the screen 
+for example, I put my float on the bottom left and double tab volume down double taps on the float , pressing volume up presses ⭕ (I keep the controls at 15% to not hurt OCR accuracy)
+https://github.com/kaihouguide/the_ULTIMATE_android_mining_setup/blob/main/Screenshot_2025-06-23-14-03-57-551_org.ppsspp.ppssppgold.jpg
