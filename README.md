@@ -216,3 +216,4 @@ once in jidoujisho press on threedots top right then manage dictionaries and imp
 ![Screenshot](./Screenshot_2025-06-23-13-39-33-891_app.arianneorpilla.yuuna.jpg) 
 press on card creator ( card with+) and bottom left choose your ankideck
 jidoujisho allows you to load in Anime with jp subs for look ups or Mokuro manga HTMLs
+[there's also the lazy method for anime](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)
