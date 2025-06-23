@@ -1,11 +1,16 @@
 
 
-# Anki with Add-ons on Android: A Comprehensive Guide
+# Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
 
 > **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
 
+## 🎯 Goal
+
+For daily reviews, it is still **highly recommended to use AnkiDroid** after syncing your collection from the desktop client. This setup is for maintenance, card creation with complex add-ons, and management.
+
+---
 
 ## ⚠️ Storage Requirement
 
@@ -17,9 +22,9 @@
 
 Before you begin, you will need to install the following applications on your Android device:
 
-*   **Termux**: A powerful terminal emulator and Linux environment for Android.
-    *   *It is recommended to install the version from GitHub or F-Droid, not the Play Store, as the Play Store version is outdated.*
-*   **RealVNC Viewer**: A VNC client to access the graphical desktop environment we will be creating.
+*   **[Termux](https://f-droid.org/en/packages/com.termux/)**: A powerful terminal emulator and Linux environment for Android.
+    *   *It is recommended to install the version from [GitHub](https://github.com/termux/termux-app/releases) or [F-Droid](https://f-droid.org/en/packages/com.termux/), not the Play Store, as the Play Store version is outdated.*
+*   **[RealVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)**: A VNC client to access the graphical desktop environment we will be creating.
 
 ---
 
@@ -108,8 +113,6 @@ Now we'll start the graphical desktop and connect to it.
 
 You should now see a complete XFCE Linux desktop environment on your screen!
 
-![XFCE Desktop on Android](./vnc-desktop-view.png)
-
 ### Step 4: Install Anki in the Linux VNC Session
 
 Open a terminal window inside the Linux desktop you are connected to via VNC. Now, copy and paste the following commands to install Anki.
@@ -150,8 +153,6 @@ To run Anki, you must use a specific command that disables a sandbox feature inc
     ```
     Anki should now launch! You can log in, download your collection, and install any add-ons you need.
 
-    ![Anki Running on Android](./anki-on-android.png)
-
 *   **To run Anki in the future:**
     You will need to use the same command every time. To make this easier, consider creating a script.
 
@@ -188,7 +189,7 @@ There are many ways to run VNs on Android, most notably PPSSPP, Vita3k, Kirikiro
 
 ### Prerequisites
 
-*   **Tekisuto**
+*   **[Tekisuto](https://github.com/facedev/Tekisuto/releases)**
 
 ### Setup and Usage
 
