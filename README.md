@@ -1,24 +1,11 @@
-Of course. My apologies for the misunderstanding.
 
-Here is the guide, fully formatted for GitHub, using the exact local image syntax you provided. I have placed the image links where they would be most effective in the guide, including the specific one you mentioned.
 
-You can copy and paste this directly into your `README.md` file.
-
----
-
-# Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
+# Anki with Add-ons on Android: A Comprehensive Guide
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
 
 > **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
 
-## 🎯 Goal
-
-The primary goal of this setup is to install and manage **Anki add-ons**, which are not supported by the standard AnkiDroid app.
-
-For daily reviews, it is still **highly recommended to use AnkiDroid** after syncing your collection from the desktop client. This setup is for maintenance, card creation with complex add-ons, and management.
-
----
 
 ## ⚠️ Storage Requirement
 
