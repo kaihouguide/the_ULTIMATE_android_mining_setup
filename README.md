@@ -77,7 +77,7 @@ Now, we'll install a desktop environment and create a user account.
     *   To save and exit, press `Ctrl+X`, then `Y`, then `Enter`.
 
     ![Screenshot of sudoers file](./Screenshot%202025-06-23%20121624.png)
-    *(Note: The image will appear here once you upload the screenshot file to your repository.)*
+    
 
 6.  **Switch to your new user account:**
     ```sh
@@ -163,3 +163,4 @@ To avoid typing the long command every time, you can create a simple executable 
     chmod +x ~/run-anki.sh
     ```
 Now you can simply open a terminal and run `./run-anki.sh` to start Anki, or even create a desktop launcher that executes this script.
+![Screenshot](./image.png)
