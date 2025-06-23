@@ -203,3 +203,5 @@ Once downloaded and installed:
     ![Screenshot](./Screenshot_2025-06-23-13-00-27-683_com.abaga129.tekisuto.jpg)
 
 To do lookups, double-tap on the floating circle, then tap the checkmark (**✓**). Export to Anki using the up arrow (**⬆️**).
+# Reading and mining LNs on Android 
+[There's already an excellent guide on that by xeilu](https://lazyguidejp.github.io/jp-lazy-guide/setupLnOnAndroid/)
