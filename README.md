@@ -1,5 +1,4 @@
 
-
 # Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
@@ -18,6 +17,7 @@
 *   [🎨 Reading and Mining Manga on Android](#-reading-and-mining-manga-on-android)
 *   [🎬 Reading and Mining Anime on Android](#-reading-and-mining-anime-on-android)
 *   [🪄 Hacks That Make Everything Easier](#-hacks-that-make-everything-easier)
+*   [⚡ Very, Very Optional: Run Local Audio Sync Server on Android](#️-very-very-optional-run-local-audio-sync-server-on-android)
 
 ---
 
@@ -290,3 +290,41 @@ This setup makes mining from emulated VNs (like PPSSPP/Vita3K) incredibly smooth
 With this, you can play the game and create cards using only your volume buttons. I recommend setting the on-screen controls to ~15% opacity to avoid interfering with OCR accuracy.
 
 ![Example of PPSSPP controls with Tekisuto float](https://raw.githubusercontent.com/kaihouguide/the_ULTIMATE_android_mining_setup/main/Screenshot_2025-06-23-14-03-57-551_org.ppsspp.ppssppgold.jpg)
+
+---
+
+## ⚡ Very, Very Optional: Run Local Audio Sync Server on Android
+
+In Termux, copy-paste these in order:
+```bash
+pkg update && pkg upgrade -y
+pkg install rust protobuf git -y
+cargo install --locked --git https://github.com/ankitects/anki.git --tag 25.02.5 anki-sync-server
+echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+This will run the server:
+```bash
+SYNC_USER1=yourusername:yourpassword anki-sync-server
+```
+
+### Creating a 'sync' Shortcut
+
+To avoid typing the long command every time, you can create a simple `sync` shortcut that starts the server automatically.
+
+1.  **Open your Termux configuration file** using the `nano` text editor:
+    ```bash
+    nano ~/.bashrc
+    ```
+2.  **Add the following line** to the bottom of the file. **Be sure to replace `yourusername:yourpassword` with your actual credentials!**
+    ```bash
+    alias sync='SYNC_USER1=yourusername:yourpassword anki-sync-server'
+    ```
+3.  **Save and exit** the editor by pressing **Ctrl+X**, then **Y**, then **Enter**.
+4.  **Apply the changes** to your current Termux session:
+    ```bash
+    source ~/.bashrc
+    ```
+
+Now, you can simply type `sync` and press Enter in Termux to start your local sync server.
