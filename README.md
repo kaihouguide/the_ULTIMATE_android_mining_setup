@@ -1,16 +1,11 @@
 
 
-# Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
-
-> This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
-
-> **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
-
 ## 📚 Table of Contents
 
 *   [🎯 Goal](#-goal)
 *   [⚠️ Storage Requirement](#️-storage-requirement)
 *   [🛠️ Prerequisites](#️-prerequisites)
+*.  [Anki with Add-ons on Android: A Comprehensive Guide 📱🐧](# Anki with Add-ons on Android: A Comprehensive Guide 📱🐧)
 *   [🚀 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
 *   [🎮 VN Mining on Android](#-vn-mining-on-android)
 *   [📖 Reading and Mining LNs on Android](#-reading-and-mining-lns-on-android)
@@ -33,6 +28,11 @@ For daily reviews, it is still **highly recommended to use AnkiDroid** after syn
 > Installing everything in this guide will require a significant amount of storage. It is highly recommended to have a **128GB** or **256GB** phone at a minimum before proceeding.
 
 ---
+# Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
+
+> This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
+
+> **Disclaimer:** The tools used in this guide are not new or original creations. This document aims to be a comprehensive, Android-only guide for Japanese language immersion (and other uses) by enabling the full desktop version of Anki on your device.
 
 ## 🛠️ Prerequisites
 
