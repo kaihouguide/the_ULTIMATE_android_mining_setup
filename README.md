@@ -16,5 +16,6 @@ in termux run in order
    <pre> nano /etc/sudoers </pre> 
    scroll down till you find root and in the line right under it add your user like this 
 User ALL=(ALL:ALL) ALL
-![Screenshot](./Screenshot 2025-06-23 121624.png)
+![Screenshot](./Screenshot%202025-06-23%20121624.png)
+
 now technically the linux installation is done but we need to access it so 
