@@ -6,4 +6,4 @@ first of all you will need some requiruments to use this
 first you will need to get [termux](https://github.com/termux/termux-app)
 [RealVNC](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
 in termux run 
- <pre> ```bash pkg upgrade ``` </pre> 
+ <pre> ```pkg upgrade ``` </pre> 
