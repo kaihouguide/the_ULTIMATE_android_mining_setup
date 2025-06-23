@@ -169,3 +169,6 @@ there's many ways to run VNs on Android most notably PPSSPP Vita3k kirikioid2 ex
 ## Prerequisites
 keep in mind this is just OCR it might have mistakes but up till now it has been really good with me 
 **[tekisuto](https://github.com/abaga129/tekisuto)**
+once downloaded and installed 
+![Screenshot](./Screenshot_2025-06-23-12-50-00-604_com.abaga129.tekisuto.jpg
+)
