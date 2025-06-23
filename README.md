@@ -1,6 +1,3 @@
-Of course. Here is the provided guide, reformatted and enhanced for a GitHub `README.md` file. I've added structure, clear headings, explanations for the commands, and tips for clarity.
-
----
 
 # Anki with Addons on Android: A Comprehensive Guide
 
@@ -37,7 +34,6 @@ First, we'll set up the base Linux environment. Open Termux and run the followin
     ```
 2.  **Install `proot-distro` and the Debian distribution:**
     ```sh
-
     proot-distro install debian
     ```
 3.  **Log in to your new Debian environment:**
@@ -80,8 +76,8 @@ Now, we'll install a desktop environment and create a user account.
         ```
     *   To save and exit, press `Ctrl+X`, then `Y`, then `Enter`.
 
-    <!-- The original guide included a screenshot here. If you have the image, upload it to your GitHub repository and update the path. -->
-    <!-- ![Screenshot of sudoers file](./Screenshot%202025-06-23%20121624.png) -->
+    ![Screenshot of sudoers file](./Screenshot%202025-06-23%20121624.png)
+    *(Note: The image will appear here once you upload the screenshot file to your repository.)*
 
 6.  **Switch to your new user account:**
     ```sh
