@@ -233,8 +233,8 @@ There's already an excellent guide for this by xeilu, which covers the process i
 ---
 
 ## 🎨 Reading and Mining Manga on Android
-
-Two very easy methods exist for mining manga on your device.
+## **[MANGATAN! TACHIYOMI WITH LOOKUPS](https://github.com/kaihouguide/Mangatan)**  
+Other than this two other very easy methods exist for mining manga on your device.
 
 *   **Lazy Method**: This method is already well-explained in the following guide.
     *   **[Lazy Guide: Setup Manga on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupMangaOnAndroid/)**
