@@ -259,7 +259,7 @@ Jidoujisho allows you to load in Anime with Japanese subtitles or Mokuro manga H
 ## 🎬 Reading and Mining Anime on Android
 
 Similar to manga, you have a couple of great options for mining anime.
-
+either method you choose from down below, easiest method to acquire anime on Android (even way easier than on pc) is ## [Aniyomi](https://aniyomi.org/)
 *   **Jidoujisho**: As described in the section above, Jidoujisho can load anime with subtitle files.
 *   **Lazy Method**: There is also a dedicated guide for another anime mining setup.
     *   **[Lazy Guide: Setup Anime on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)**
