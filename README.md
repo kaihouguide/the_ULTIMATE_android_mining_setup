@@ -1,4 +1,20 @@
 
+
+
+
+Here is the fixed and fully formatted version of your README. 
+
+### 🔧 What was breaking your render:
+1. **Broken Table of Contents:** Your TOC links didn't match the actual headings (especially the Manga/Anime section), which breaks the jump links.
+2. **Improper Headings:** You used `###` for a standard paragraph ("quick note...") and `#` for a hint ("hint you can use..."). This creates giant, out-of-place text and breaks the page structure. I converted these to clean Blockquotes (`>`).
+3. **Unformatted Steps:** The *Manatan* section was a "wall of text." I properly formatted it into numbered steps, bolded key phrases, and added line breaks so your images stack cleanly instead of sitting right next to the text.
+4. **Typos:** Fixed spelling errors like "minning" to "mining", "dictoinaries" to "dictionaries", and "recc" to "recommend".
+
+Here is the corrected Markdown code. You can copy and paste this directly into your GitHub `README.md`:
+
+***
+
+```markdown
 # Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
@@ -7,17 +23,14 @@
 
 ## 📚 Table of Contents
 
-*   [🎯 Goal](#-goal)
-*   [⚠️ Storage Requirement](#️-storage-requirement)
-*   [🛠️ Prerequisites](#️-prerequisites)
-*   [Anki with Add-ons on Android: A Comprehensive Guide 📱🐧](#Anki-with-Add-ons-on-Android-A-Comprehensive-Guide-📱🐧)
-*   [🚀 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
-*   [🎮 VN Mining on Android](#-vn-mining-on-android)
-*   [📖 Reading and Mining LNs on Android](#-reading-and-mining-lns-on-android)
-*   [🎨 Reading and Mining Manga on Android](#-reading-and-mining-manga-on-android)
-*   [🎬 Reading and Mining Anime on Android](#-reading-and-mining-anime-on-android)
-*   [🪄 Hacks That Make Everything Easier](#-hacks-that-make-everything-easier)
-*   [⚡ Very, Very Optional: Run Local Audio Sync Server on Android](#️-very-very-optional-run-local-audio-sync-server-on-android)
+* [🎯 Goal](#-goal)
+*[⚠️ Storage Requirement](#️-storage-requirement)
+* [🛠️ Prerequisites](#️-prerequisites)
+*[🚀 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
+*[🎮 VN Mining on Android](#-vn-mining-on-android)
+*[📖 Reading and Mining LNs/Manga, Watching and Mining Anime](#-reading-and-mining-lnsmanga-watching-and-mining-anime-on-android)
+* [🪄 Hacks That Make Everything Easier](#-hacks-that-make-everything-easier)
+* [⚡ Very, Very Optional: Run Local Audio Sync Server on Android](#️-very-very-optional-run-local-audio-sync-server-on-android)
 
 ---
 
@@ -31,10 +44,11 @@ For daily reviews, it is still **highly recommended to use AnkiDroid** after syn
 
 ## ⚠️ Storage Requirement
 
-> Surprisingly not much anymore
+> Surprisingly not much anymore!
+
+> **Quick Note:** This is a Linux installation, basically an entire PC on your phone. If you really want, you can do most simple tasks on this if you know your way around Linux. You can even install a browser with Yomitan, use AnkiConnect, and mine with it (untested), but I recommend doing as many Android-native tasks as possible. Also, AnkiDroid has announced incoming add-on support, so you can skip right to the immersion content when that drops!
 
 ---
-### quick note this is a Linux installation, basically an entire PC on your phone if you really want you can do most simple tasks on this if you know your way around Linux and can even install a browser with yomitan and use ankiconnect and mine with it (untested) but I'd recc do as much Android native tasks as possible also Ankidroid has announced incoming addon support you can skip right to immersion content 
 
 ## 🛠️ Prerequisites
 
@@ -215,7 +229,7 @@ Once downloaded and installed:
 
 1.  Open **Accessibility Settings** and give it all permissions needed.
 2.  Then go to **OCR Settings** and choose the OCR language as **Japanese**.
-3.  Next, **Manage Dictionaries** and load in your Yomitan dictionary zips.
+3.  Next, go to **Manage Dictionaries** and load in your Yomitan dictionary zips.
 4.  Last step: configure **AnkiDroid** to your deck and mining note. I use Lapis, and this is how I set it up:
 
     ![Screenshot](./Screenshot_2025-06-23-13-00-27-683_com.abaga129.tekisuto.jpg)
@@ -224,38 +238,67 @@ To do lookups, double-tap on the floating circle, then tap the checkmark (**✓*
 
 ---
 
-## 📖 Reading and Mining LNs/Manga , Watching and minning anime on Android
-## **[MANATAN! ALL IN 1 IMMERSION TOOL MODERN IMMERSION TOOL](https://github.com/KolbyML/Manatan)** 
+## 📖 Reading and Mining LNs/Manga, Watching and Mining Anime on Android
 
-Installation and usage guide 
-Step 1
-Downloading the app
-Step 2 
-Opening the app and pick what language you are studying
-Step 3 (optional But extremly convinent for japanese learners)
-create a [Jimaku](https://jimaku.cc/account) account and aquire an api key
-and put it in manatan's api key
-step 4 (importing dictionaries and setting up minning)
-go to more in the bottom left and press manatan settings 
-scroll down and import new dictoinaries 
-scroll down more and enable anki also select your deck/card type (manatan autofills fields for popular card types)
-Step 5 (acquiring manga/LNs/Anime)
-go back to the "more" page and now press "settings" not manatan's
-go to "browse" 
-and paste this link in ["anime extensions"](https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json)
-and then paste this link in ["manga extensions"](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
-go back to mainpage of the app and go to browse
-install your target language's sources for manga
-and your favorite anime extensions (i like aniwatch but personal-preference)
-now it's as simple as finding an anime/manga
-and then simply just watching/reading
-# hint you can use [local source for anime](https://manatan.com/docs/guides/local-anime) and [local source for manga](https://manatan.com/docs/guides/local-manga) if you don't find what you need in extensions
-For lNs you must find your own and import Epub then read!
+###[MANATAN! ALL IN 1 MODERN IMMERSION TOOL](https://github.com/KolbyML/Manatan)
 
+**Installation and Usage Guide:**
+
+**Step 1:** Download the app.
+
+**Step 2:** Open the app and pick what language you are studying.
+
+**Step 3 (Optional but extremely convenient for Japanese learners):** 
+Create a [Jimaku](https://jimaku.cc/account) account, acquire an API key, and put it into Manatan's API key settings.
+
+**Step 4: Importing dictionaries and setting up mining**
+1. Go to **More** in the bottom left and press **Manatan settings**.
+   
+   ![Screenshot](./1.jpg)
+   
+2. Scroll down and import new dictionaries.
+   
+   ![Screenshot](./2.jpg)
+   
+3. Scroll down more and enable Anki. Also, select your deck/card type (Manatan autofills fields for popular card types).
+   
+   ![Screenshot](./3.jpg)
+
+**Step 5: Acquiring Manga / LNs / Anime**
+1. Go back to the **More** page and now press **Settings** (the standard settings, not Manatan's).
+   
+   ![Screenshot](./4.jpg)
+   
+2. Go to **Browse**.
+   
+   ![Screenshot](./5.jpg)
+   
+3. Paste this link into **[Anime extensions](https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json)**.
+4. Paste this link into **[Manga extensions](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)**.
+5. Go back to the main page of the app and navigate to **Browse**.
+   
+   ![Screenshot](./6.jpg)
+   
+6. Install your target language's sources for manga.
+   
+   ![Screenshot](./7.jpg)
+   
+7. Install your favorite anime extensions (I like Aniwatch, but it's personal preference).
+   
+   ![Screenshot](./8.jpg)
+   
+8. Now it's as simple as finding an anime/manga and then simply watching/reading!
+   
+   ![Screenshot](./9.jpg)
+   ![Screenshot](./10.jpg)
+
+> **💡 Hint:** You can use a [local source for anime](https://manatan.com/docs/guides/local-anime) and a [local source for manga](https://manatan.com/docs/guides/local-manga) if you don't find what you need in the extensions.
+
+For LNs, you must find your own, import the Epub, and then read!
+![Screenshot](./11.jpg)
+![Screenshot](./12.jpg)
 
 ---
-
-
 
 ## 🪄 Hacks That Make Everything Easier
 
@@ -275,7 +318,7 @@ To automate your workflow, the **[Key Mapper](https://github.com/keymapperorg/Ke
 
 This setup makes mining from emulated VNs (like PPSSPP/Vita3K) incredibly smooth.
 
-*    map the **`⭕`** button (or whichever button advances text) to **Volume Up**.
+*   Map the **`⭕`** button (or whichever button advances text) to **Volume Up**.
 *   Keep your Tekisuto floating icon in a fixed position on the screen.
 *   In Key Mapper, map a **Double-press of Volume Down** to a **Double Tap** action at the exact coordinates of your Tekisuto icon.
 
@@ -320,3 +363,4 @@ To avoid typing the long command every time, you can create a simple `sync` shor
     ```
 
 Now, you can simply type `sync` and press Enter in Termux to start your local sync server.
+```
