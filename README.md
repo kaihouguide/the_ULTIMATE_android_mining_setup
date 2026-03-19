@@ -1,20 +1,4 @@
 
-
-
-
-Here is the fixed and fully formatted version of your README. 
-
-### 🔧 What was breaking your render:
-1. **Broken Table of Contents:** Your TOC links didn't match the actual headings (especially the Manga/Anime section), which breaks the jump links.
-2. **Improper Headings:** You used `###` for a standard paragraph ("quick note...") and `#` for a hint ("hint you can use..."). This creates giant, out-of-place text and breaks the page structure. I converted these to clean Blockquotes (`>`).
-3. **Unformatted Steps:** The *Manatan* section was a "wall of text." I properly formatted it into numbered steps, bolded key phrases, and added line breaks so your images stack cleanly instead of sitting right next to the text.
-4. **Typos:** Fixed spelling errors like "minning" to "mining", "dictoinaries" to "dictionaries", and "recc" to "recommend".
-
-Here is the corrected Markdown code. You can copy and paste this directly into your GitHub `README.md`:
-
-***
-
-```markdown
 # Anki with Add-ons on Android: A Comprehensive Guide 📱🐧
 
 > This guide was written by **@1selxo**. You can reach me on Discord if you have better tools or improvements.
