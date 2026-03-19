@@ -347,4 +347,3 @@ To avoid typing the long command every time, you can create a simple `sync` shor
     ```
 
 Now, you can simply type `sync` and press Enter in Termux to start your local sync server.
-```
