@@ -31,10 +31,10 @@ For daily reviews, it is still **highly recommended to use AnkiDroid** after syn
 
 ## ⚠️ Storage Requirement
 
-> Installing everything in this guide will require a significant amount of storage. It is highly recommended to have a **128GB** or **256GB** phone at a minimum before proceeding.
+> Surprisingly not much anymore
 
 ---
-### quick note this is a Linux installation, basically an entire PC on your phone if you really want you can do most simple tasks on this if you know your way around Linux and can even install a browser with yomitan and use ankiconnect and mine with it (untested) but I'd recc do as much Android native tasks as possible 
+### quick note this is a Linux installation, basically an entire PC on your phone if you really want you can do most simple tasks on this if you know your way around Linux and can even install a browser with yomitan and use ankiconnect and mine with it (untested) but I'd recc do as much Android native tasks as possible also Ankidroid has announced incoming addon support you can skip right to immersion content 
 
 ## 🛠️ Prerequisites
 
@@ -224,49 +224,38 @@ To do lookups, double-tap on the floating circle, then tap the checkmark (**✓*
 
 ---
 
-## 📖 Reading and Mining LNs on Android
+## 📖 Reading and Mining LNs/Manga , Watching and minning anime on Android
+## **[MANATAN! ALL IN 1 IMMERSION TOOL MODERN IMMERSION TOOL](https://github.com/KolbyML/Manatan)** 
 
-There's already an excellent guide for this by xeilu, which covers the process in detail.
+Installation and usage guide 
+Step 1
+Downloading the app
+Step 2 
+Opening the app and pick what language you are studying
+Step 3 (optional But extremly convinent for japanese learners)
+create a [Jimaku](https://jimaku.cc/account) account and aquire an api key
+and put it in manatan's api key
+step 4 (importing dictionaries and setting up minning)
+go to more in the bottom left and press manatan settings 
+scroll down and import new dictoinaries 
+scroll down more and enable anki also select your deck/card type (manatan autofills fields for popular card types)
+Step 5 (acquiring manga/LNs/Anime)
+go back to the "more" page and now press "settings" not manatan's
+go to "browse" 
+and paste this link in ["anime extensions"](https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json)
+and then paste this link in ["manga extensions"](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+go back to mainpage of the app and go to browse
+install your target language's sources for manga
+and your favorite anime extensions (i like aniwatch but personal-preference)
+now it's as simple as finding an anime/manga
+and then simply just watching/reading
+# hint you can use [local source for anime](https://manatan.com/docs/guides/local-anime) and [local source for manga](https://manatan.com/docs/guides/local-manga) if you don't find what you need in extensions
+For lNs you must find your own and import Epub then read!
 
-*   **[Lazy Guide: Setup LNs on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupLnOnAndroid/)**
-
----
-
-## 🎨 Reading and Mining Manga on Android
-## **[MANGATAN! TACHIYOMI WITH LOOKUPS](https://github.com/kaihouguide/Mangatan)**  
-Other than this two other very easy methods exist for mining manga on your device.
-
-*   **Lazy Method**: This method is already well-explained in the following guide.
-    *   **[Lazy Guide: Setup Manga on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupMangaOnAndroid/)**
-*   **Jidoujisho**: A powerful OCR and lookup tool. The setup is detailed below.
-
-### Jidoujisho Installation for Manga and Anime
-
-1.  Download and install **[Jidoujisho](https://github.com/arianneorpilla/jidoujisho)**.
-2.  In Jidoujisho, tap the three dots in the top right, select **Manage Dictionaries**, and import your Yomitan dictionaries.
-3.  Go to **Export Profiles**, choose your Anki note type, and press **Create** to fill out the fields accordingly.
-
-    ![Screenshot](./Screenshot_2025-06-23-13-31-21-757_app.arianneorpilla.yuuna.jpg)
-4.  Once finished, navigate to the **Dictionary** section (bottom left).
-5.  Tap the card creator icon (a card with a `+`) and select your target Anki deck from the bottom left.
-
-    ![Screenshot](./Screenshot_2025-06-23-13-39-33-891_app.arianneorpilla.yuuna.jpg)
-
-Jidoujisho allows you to load in Anime with Japanese subtitles or Mokuro manga HTMLs for easy lookups and mining.
-
----
-
-## 🎬 Reading and Mining Anime on Android
-
-Similar to manga, you have a couple of great options for mining anime.
-either method you choose from down below, easiest method to acquire anime on Android (even way easier than on pc) is 
-*[Aniyomi](https://aniyomi.org/)*
-my actual favorite method is right now is aniyomi download and Asbplayer but you choose what you need
-*   **Jidoujisho**: As described in the section above, Jidoujisho can load anime with subtitle files.
-*   **Lazy Method**: There is also a dedicated guide for another anime mining setup.
-    *   **[Lazy Guide: Setup Anime on Android](https://lazyguidejp.github.io/jp-lazy-guide/setupAnimeOnAndroid/)**
 
 ---
+
+
 
 ## 🪄 Hacks That Make Everything Easier
 
